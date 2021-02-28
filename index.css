@@ -1,3 +1,13 @@
 body {
     background-color: beige;
+    border-style: solid;
+    border-color: cadetblue;
+    padding-left: 90px;
+    padding-top: 90px;
+    
+}
+p {
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
