@@ -1,4 +1,4 @@
-# Music Band
+# Boy Band Music
 ## Author
 Nancy Kemunto
 ## Description
